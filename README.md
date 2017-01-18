@@ -1,7 +1,7 @@
 # bear-api
 
 
-Express project example - API Rest - Node - Express - Mongo.
+Express project example - API Rest - Node - Express - Mongo (with embedded document)
 
 This example is from a bears' api, because I'm in love with Masha and the Bear.
 
